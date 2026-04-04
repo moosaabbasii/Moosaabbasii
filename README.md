@@ -39,7 +39,6 @@ CS Student at the University of South Florida Honors College (GPA: 3.90) — Gre
 
 | Project | Description | Tech |
 |---|---|---|
-| [Smart Job Tracker](https://github.com/Musaaaaaaaaaaaa/Smart-Job-Tracker) | Serverless cloud platform to track job applications with automated notifications | AWS, Python, Streamlit |
 | [Digital Image Processing](https://github.com/Musaaaaaaaaaaaa/Digital-Image-Processing-DIP-) | Automated image enhancement, edge detection & noise reduction across 500+ datasets | Python, OpenCV, NumPy |
 | [School Management System](https://github.com/Musaaaaaaaaaaaa/School-Management-System) | Full-stack web platform with role-based access, SQL backend & RESTful APIs | HTML, CSS, JS, SQL |
 | [Maze Solver](https://github.com/Musaaaaaaaaaaaa/Maze-Solver) | Recursive backtracking maze solver with edge case handling | Python |
