@@ -1,6 +1,10 @@
 # Hi, I'm Moosa 👋
 
-CS Student at the University of South Florida Honors College (GPA: 3.90) — Green and Gold Presidential Scholar, Dean's List. Interned at Huawei Technologies. Passionate about cloud, algorithms, and building things that actually work.
+CS Student at the University of South Florida Honors College (GPA: 3.90), Green and Gold Presidential Scholar, Dean's List. Interned at Huawei Technologies, where I coordinated cross functional projects and built data driven workflows that improved team efficiency.
+
+I like working close to the metal, from low-level algorithms in C++ to cloud-native serverless architectures on AWS. Lately I've been diving deeper into AI and Machine Learning, exploring how models are built, trained, and deployed in real-world systems. I'm interested in the intersection of intelligent systems and practical software engineering, and I'm actively working on projects in that space.
+
+Always building. Always learning.
 
 ---
 
