@@ -43,4 +43,4 @@ CS Student at the University of South Florida — I like working close to the me
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/moosaabbasi) &nbsp;·&nbsp; moosaabbasi2005@gmail.com
+📫 [LinkedIn](https://linkedin.com/in/moosaabbasi) &nbsp;·&nbsp; moosaabbasi@usf.edu
