@@ -1,54 +1,46 @@
-<h1 align="center">Hey, I'm Moosa Abbasi 👋</h1>
+# Hi, I'm Moosa 👋
 
-<p align="center">
-  <em>CS Student · Builder · Always Learning</em>
-</p>
+CS Student at the University of South Florida — I like working close to the metal, solving algorithmic problems, and building projects that actually do something.
 
 ---
 
-### 🧑‍💻 About Me
+## Skills
 
-I'm a Computer Science student passionate about building things from scratch — whether that's a game engine in C++, an image processing pipeline in Python, or a full database-driven app in C#. I love working close to the metal and understanding how things work under the hood.
+**Languages**
 
-- 🔭 Currently working on expanding my project portfolio
-- 🌱 Learning more about software engineering, algorithms, and system design
-- 💬 Ask me about C++, Python, or anything low-level
-- 📫 Reach me at: moosaabbasi2005@gmail.com
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
----
+**Tools & Libraries**
 
-### 🛠️ Languages & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [🎮 Pacman Game](https://github.com/Musaaaaaaaaaaaa/Pacman-Game) | Classic Pacman built from scratch | C++ |
-| [🔍 Mini Search Engine](https://github.com/Musaaaaaaaaaaaa/Mini-Search-Engine-Web-browser) | A working web search & browser engine | - |
-| [🖼️ Digital Image Processing](https://github.com/Musaaaaaaaaaaaa/Digital-Image-Processing-DIP-) | Image enhancement, edge detection & noise reduction | Python, OpenCV |
-| [🏫 School Management System](https://github.com/Musaaaaaaaaaaaa/School-Management-System) | Full CRUD app with authentication & SQL backend | C#, SQL |
+| [Maze Solver](https://github.com/Musaaaaaaaaaaaa/Maze-Solver) | Recursive backtracking maze solver with edge case handling | Python |
+| [Digital Image Processing](https://github.com/Musaaaaaaaaaaaa/Digital-Image-Processing-DIP-) | Automated image enhancement, edge detection & noise reduction | Python, OpenCV |
+| [Static Huffman Coding](https://github.com/Musaaaaaaaaaaaa/Static-Huffman-Coding-Algorithm) | Lossless data compression using a custom heap-based priority queue | C++ |
+| [Arithmetic Notation Converter](https://github.com/Musaaaaaaaaaaaa/Arithmetic-Notation-Converter-using-Deque) | Converts infix, postfix & prefix expressions using Deque | C++ |
+| [School Management System](https://github.com/Musaaaaaaaaaaaa/School-Management-System) | CRUD app with authentication & relational database design | C#, SQL |
+| [Sprint-1](https://github.com/Musaaaaaaaaaaaa/Sprint-1) | Collaborative team project built using agile sprint methodology | Python |
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musaaaaaaaaaaaa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musaaaaaaaaaaaa&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musaaaaaaaaaaaa&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">
-  <em>⭐ Star a repo if something catches your eye!</em>
-</p>
+📫 [LinkedIn](https://linkedin.com/in/moosaabbasi) &nbsp;·&nbsp; moosaabbasi2005@gmail.com
