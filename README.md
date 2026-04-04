@@ -1,39 +1,37 @@
 # Hi, I'm Moosa 👋
 
-CS Student at the University of South Florida Honors College (GPA: 3.9) — Green and Gold Presidential Scholar, Dean's List. I like working close to the metal, solving algorithmic problems, and building things that actually do something.
+CS Student at the University of South Florida Honors College (GPA: 3.90) — Green and Gold Presidential Scholar, Dean's List. Interned at Huawei Technologies. Passionate about cloud, algorithms, and building things that actually work.
 
 ---
 
 ## Skills
 
-**Languages**
+**Languages & Databases**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Web Development**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Libraries & Tools**
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Concepts**
-
-`OOP` `Data Structures` `Algorithms` `Machine Learning` `API Development` `Game Development` `Software Development`
+`Lambda` `API Gateway` `S3` `CloudWatch` `IAM` `EventBridge` `SNS`
 
 ---
 
@@ -41,12 +39,12 @@ CS Student at the University of South Florida Honors College (GPA: 3.9) — Gree
 
 | Project | Description | Tech |
 |---|---|---|
+| [Smart Job Tracker](https://github.com/Musaaaaaaaaaaaa/Smart-Job-Tracker) | Serverless cloud platform to track job applications with automated notifications | AWS, Python, Streamlit |
+| [Digital Image Processing](https://github.com/Musaaaaaaaaaaaa/Digital-Image-Processing-DIP-) | Automated image enhancement, edge detection & noise reduction across 500+ datasets | Python, OpenCV, NumPy |
+| [School Management System](https://github.com/Musaaaaaaaaaaaa/School-Management-System) | Full-stack web platform with role-based access, SQL backend & RESTful APIs | HTML, CSS, JS, SQL |
 | [Maze Solver](https://github.com/Musaaaaaaaaaaaa/Maze-Solver) | Recursive backtracking maze solver with edge case handling | Python |
-| [Digital Image Processing](https://github.com/Musaaaaaaaaaaaa/Digital-Image-Processing-DIP-) | Automated image enhancement, edge detection & noise reduction | Python, OpenCV |
 | [Static Huffman Coding](https://github.com/Musaaaaaaaaaaaa/Static-Huffman-Coding-Algorithm) | Lossless data compression using a custom heap-based priority queue | C++ |
 | [Arithmetic Notation Converter](https://github.com/Musaaaaaaaaaaaa/Arithmetic-Notation-Converter-using-Deque) | Converts infix, postfix & prefix expressions using Deque | C++ |
-| [School Management System](https://github.com/Musaaaaaaaaaaaa/School-Management-System) | CRUD app with authentication & relational database design | C#, SQL |
-| [Sprint-1](https://github.com/Musaaaaaaaaaaaa/Sprint-1) | Collaborative team project built using agile sprint methodology | Python |
 
 ---
 
