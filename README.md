@@ -1,6 +1,6 @@
 # Hi, I'm Moosa 👋
 
-CS Student at the University of South Florida Honors College (GPA: 4.0) — Green and Gold Presidential Scholar, Dean's List. I like working close to the metal, solving algorithmic problems, and building things that actually do something.
+CS Student at the University of South Florida Honors College (GPA: 3.9) — Green and Gold Presidential Scholar, Dean's List. I like working close to the metal, solving algorithmic problems, and building things that actually do something.
 
 ---
 
