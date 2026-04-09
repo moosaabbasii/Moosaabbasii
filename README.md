@@ -43,11 +43,13 @@ Always building. Always learning.
 
 | Project | Description | Tech |
 |---|---|---|
-| [Digital Image Processing](https://github.com/Musaaaaaaaaaaaa/Digital-Image-Processing-DIP-) | Automated image enhancement, edge detection & noise reduction across 500+ datasets | Python, OpenCV, NumPy |
-| [School Management System](https://github.com/Musaaaaaaaaaaaa/School-Management-System) | Full-stack web platform with role-based access, SQL backend & RESTful APIs | HTML, CSS, JS, SQL |
-| [Maze Solver](https://github.com/Musaaaaaaaaaaaa/Maze-Solver) | Recursive backtracking maze solver with edge case handling | Python |
-| [Static Huffman Coding](https://github.com/Musaaaaaaaaaaaa/Static-Huffman-Coding-Algorithm) | Lossless data compression using a custom heap-based priority queue | C++ |
-| [Arithmetic Notation Converter](https://github.com/Musaaaaaaaaaaaa/Arithmetic-Notation-Converter-using-Deque) | Converts infix, postfix & prefix expressions using Deque | C++ |
+| [Smart Job Tracker](https://github.com/moosaabbasii/Smart-Job-Tracker) | Serverless job application tracker with automated email follow-up reminders, built entirely on AWS Free Tier | Python, AWS Lambda, DynamoDB, API Gateway, EventBridge, SNS, Streamlit |
+| [Dijkstra's Shortest Path](https://github.com/moosaabbasii/Dijkstra-Shortest-Path) | Undirected weighted graph ADT with a hand-built min-heap priority queue implementing Dijkstra's algorithm from scratch | C++, Graph Theory, OOP |
+| [Digital Image Processing](https://github.com/moosaabbasii/Digital-Image-Processing-DIP-) | Automated image enhancement, edge detection & noise reduction across 500+ datasets | Python, OpenCV, NumPy |
+| [School Management System](https://github.com/moosaabbasii/School-Management-System) | Full-stack web platform with role-based access, SQL backend & RESTful APIs | HTML, CSS, JS, SQL |
+| [Maze Solver](https://github.com/moosaabbasii/Maze-Solver) | Recursive backtracking maze solver with edge case handling | Python |
+| [Static Huffman Coding](https://github.com/moosaabbasii/Static-Huffman-Coding-Algorithm) | Lossless data compression using a custom heap-based priority queue | C++ |
+| [Arithmetic Notation Converter](https://github.com/moosaabbasii/Arithmetic-Notation-Converter-using-Deque) | Converts infix, postfix & prefix expressions using Deque | C++ |
 
 ---
 
