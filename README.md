@@ -65,4 +65,5 @@ Always building. Always learning.
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/moosaabbasi) &nbsp;·&nbsp; moosaabbasi@usf.edu
+📫 [LinkedIn](https://linkedin.com/in/moosaabbasi) &nbsp;·&nbsp; moosaabbasi@usf.edu &nbsp;·&nbsp; moosaabbasi.com
+
