@@ -1,6 +1,6 @@
 # Hi, I'm Moosa 👋
 
-CS Student at the University of South Florida Honors College (GPA: 3.90), Green and Gold Presidential Scholar, Dean's List. I've interned at Huawei Technologies coordinating cross-functional projects, and I currently conduct supervised research in application security — building automated security-testing tooling and deploying it to the cloud.
+CS Student at the University of South Florida Honors College (GPA: 3.90), Green and Gold Presidential Scholar, Dean's List. I currently conduct supervised research in application security — building automated security-testing tooling and deploying it to the cloud.
 
 I like working close to the metal, from low-level algorithms and data structures in C++ to cloud-native serverless architectures on AWS and GCP. Lately I've been diving deeper into AI/ML and application security, exploring how intelligent systems are built, trained, deployed, and hardened in real-world systems.
 
@@ -60,12 +60,8 @@ Always building. Always learning.
 |---|---|---|
 | [Smart Job Tracker](https://github.com/moosaabbasii/Smart-Job-Tracker) | Serverless job application tracker with a Chrome extension for auto-logging and automated email follow-up reminders, built entirely on AWS Free Tier | Python, AWS Lambda, DynamoDB, API Gateway, Cognito, SES, Streamlit |
 | [USF Emissions Dashboard](https://usf-emissions-dashboard.streamlit.app) | Full-stack GHG emissions analytics dashboard across 5 transportation categories, with ML models for anomaly detection, forecasting & prediction | Python, Streamlit, Plotly, scikit-learn, XGBoost, Prophet |
-| MOPS — Class Scheduling System | Full-stack class-scheduling platform with conflict-detection audits, cross-semester enrollment analytics, role-based access & PDF export | Python, FastAPI, SQLAlchemy, React, TypeScript, SQLite |
+| [MOPS — Class Scheduling System](https://github.com/moosaabbasii/Class-Scheduling-System-USF) | Full-stack class-scheduling platform with conflict-detection audits, cross-semester enrollment analytics, role-based access & PDF export | Python, FastAPI, SQLAlchemy, React, TypeScript, SQLite |
 | [Dijkstra's Shortest Path](https://github.com/moosaabbasii/Dijkstra-Shortest-Path) | Undirected weighted graph ADT with a hand-built min-heap priority queue implementing Dijkstra's algorithm from scratch | C++, Graph Theory, OOP |
-| [Digital Image Processing](https://github.com/moosaabbasii/Digital-Image-Processing-DIP-) | Automated image enhancement, edge detection & noise reduction across 500+ datasets | Python, OpenCV, NumPy |
-| [Static Huffman Coding](https://github.com/moosaabbasii/Static-Huffman-Coding-Algorithm) | Lossless data compression using a custom heap-based priority queue | C++ |
-| [Maze Solver](https://github.com/moosaabbasii/Maze-Solver) | Recursive backtracking maze solver with edge case handling | Python |
-| [Arithmetic Notation Converter](https://github.com/moosaabbasii/Arithmetic-Notation-Converter-using-Deque) | Converts infix, postfix & prefix expressions using Deque | C++ |
 
 ---
 
