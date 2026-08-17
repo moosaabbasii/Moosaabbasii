@@ -1,6 +1,6 @@
 # Hi, I'm Moosa 👋
 
-CS Student at the University of South Florida Honors College (GPA: 3.90), Green and Gold Presidential Scholar, Dean's List. I currently conduct supervised research in application security — building automated security-testing tooling and deploying it to the cloud.
+CS Student at the University of South Florida Honors College (GPA: 3.90), Green and Gold Presidential Scholar, Dean's List. I currently conduct supervised research in application security, building automated security-testing tooling and deploying it to the cloud.
 
 I like working close to the metal, from low-level algorithms and data structures in C++ to cloud-native serverless architectures on AWS and GCP. Lately I've been diving deeper into AI/ML and application security, exploring how intelligent systems are built, trained, deployed, and hardened in real-world systems.
 
